@@ -1,6 +1,7 @@
 # Kernel quantile regression
 The kernel_quantile_regression package is an open source implementation of the quantile regressor technique introduced in  [[1]](#1).
 
+This repo contains the code for reproducing the research paper [Probabilistic energy forecasting through quantile regression in reproducing kernel Hilbert spaces](https://arxiv.org/pdf/2408.04405). This article has been published in the ACM SIGEnergy Energy Informatics Review.
 
 Example of kernel quantile regression on the Melbourne temperature data [[2]](#2).
 ![alt text](https://github.com/luca-pernigo/kernel_quantile_regression/blob/main/plots/melbourne/melborune_gaussian_rbf_kernel_quantile_regression.png?raw=true)
