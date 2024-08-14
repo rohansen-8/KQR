@@ -66,3 +66,16 @@ Competition 2014 and beyond. International Journal of Forecasting 32, 3 (2016),
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Citation
+
+If you find this package helpful, please consider citing it.
+
+```bib
+@article{pernigo2024probabilistic,
+  title={Probabilistic energy forecasting through quantile regression in reproducing kernel Hilbert spaces},
+  author={Pernigo, Luca and Sen, Rohan and Baroli, Davide},
+  journal={arXiv preprint arXiv:2408.04405},
+  year={2024}
+}
+```
